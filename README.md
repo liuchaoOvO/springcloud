@@ -18,3 +18,9 @@ SpringBoot 的Demo代码
 
 8，热部署，druid数据源，pagehelper分页插件，fastjson模板
 
+# SpringCloud
+
+内容包括：
+1、服务治理
+
+2、服务配置中心
