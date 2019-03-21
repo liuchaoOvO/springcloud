@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservicecommon/microservicecommon.iml" filepath="$PROJECT_DIR$/microservicecommon/microservicecommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconfigserver/microserviceconfigserver.iml" filepath="$PROJECT_DIR$/microserviceconfigserver/microserviceconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumer/microserviceconsumer.iml" filepath="$PROJECT_DIR$/microserviceconsumer/microserviceconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumerfeignhystrix/microserviceconsumerfeignhystrix.iml" filepath="$PROJECT_DIR$/microserviceconsumerfeignhystrix/microserviceconsumerfeignhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumerhystrixdashbord/microserviceconsumerhystrixdashbord.iml" filepath="$PROJECT_DIR$/microserviceconsumerhystrixdashbord/microserviceconsumerhystrixdashbord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceeurake/microserviceeurake.iml" filepath="$PROJECT_DIR$/microserviceeurake/microserviceeurake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceparent.iml" filepath="$PROJECT_DIR$/microserviceparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceprovider/microserviceprovider.iml" filepath="$PROJECT_DIR$/microserviceprovider/microserviceprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceprovider2/microserviceprovider2.iml" filepath="$PROJECT_DIR$/microserviceprovider2/microserviceprovider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceprovider3/microserviceprovider3.iml" filepath="$PROJECT_DIR$/microserviceprovider3/microserviceprovider3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceproviderhystrix/microserviceproviderhystrix.iml" filepath="$PROJECT_DIR$/microserviceproviderhystrix/microserviceproviderhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicezuul/microservicezuul.iml" filepath="$PROJECT_DIR$/microservicezuul/microservicezuul.iml" />
+    </modules>
+  </component>
+</project>

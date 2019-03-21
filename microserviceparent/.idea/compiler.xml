@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecom" />
+        <module name="microservicecommon" />
+        <module name="microserviceconfigserver" />
+        <module name="microserviceconsumer" />
+        <module name="microserviceconsumerfeignhystrix" />
+        <module name="microserviceconsumerhystrixdashbord" />
+        <module name="microserviceeurake" />
+        <module name="microserviceprovider" />
+        <module name="microserviceprovider2" />
+        <module name="microserviceprovider3" />
+        <module name="microserviceproviderhystrix" />
+        <module name="microservicezuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservicecom" target="1.8" />
+      <module name="microservicecommon" target="1.8" />
+      <module name="microserviceconfigserver" target="1.8" />
+      <module name="microserviceconsumer" target="1.8" />
+      <module name="microserviceconsumerfeignhystrix" target="1.8" />
+      <module name="microserviceconsumerhystrixdashbord" target="1.8" />
+      <module name="microserviceeurake" target="1.8" />
+      <module name="microserviceparent" target="1.8" />
+      <module name="microserviceprovider" target="1.8" />
+      <module name="microserviceprovider2" target="1.8" />
+      <module name="microserviceprovider3" target="1.8" />
+      <module name="microserviceproviderhystrix" target="1.8" />
+      <module name="microservicezuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceconfigserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceconsumerfeignhystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceconsumerhystrixdashbord" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceeurake" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceprovider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceprovider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceprovider3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceproviderhystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicezuul" charset="UTF-8" />
+  </component>
+</project>
